@@ -1,0 +1,14 @@
+{
+    "Politics & International": [
+        "选举", "Election", "Biden", "Trump", "Harris", "Putin", "Russia"
+    ],
+    "Economy & Finance": [
+        "美联储", "Federal Reserve", "Fed", "Interest Rate", "Stock Market", "Nasdaq"
+    ],
+    "Technology": [
+        "AI", "人工智能", "OpenAI", "Nvidia", "Chip", "Semiconductor"
+    ],
+    "Energy & Environment": [
+        "Oil", "Electric Vehicle", "EV", "New Energy", "Climate"
+    ]
+}
