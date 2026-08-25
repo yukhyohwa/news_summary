@@ -15,7 +15,7 @@
 - Rendering a Markdown news report
 - Optionally delivering the report by email
 
-Market data, fund monitoring, bond analysis, arbitrage scanners, and market reports belong to the separate [`market-digest`](../market-digest) project and are not executed by this project.
+Market data, fund monitoring, bond analysis, arbitrage scanners, and market reports belong to the separate [`market-digest`](https://github.com/yukhyohwa/market-digest) project and are not executed by this project.
 
 ## Features
 
